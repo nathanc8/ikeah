@@ -1,1 +1,1 @@
-# projet-plateforme-meubles-i-key-ah
+# Projet collectif : plateforme de vente de meubles en ligne
