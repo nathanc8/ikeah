@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "type": {
+            "id": 1,
+            "name": "Chaise"
+        },
+        "material": [
+            "Bois",
+            "Métal"
+        ],
+        "color": "noir",
+        "reference": "abcFeur",
+        "price": 12,
+        "image": [
+            "./img/chaise-noir1.jpg",
+            "./img/chaise-noir2.jpg",
+            "./img/chaise-noir3.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "type": {
+            "id": 2,
+            "name": "Bureau"
+        },
+        "material": [
+            "Bois",
+            "Métal"
+        ],
+        "color": "licorne",
+        "reference": "abcFeur2",
+        "price": 150,
+        "image": [
+            "./img/bureauLicorne1.jpg",
+            "./img/bureauLicorne2.jpg",
+            "./img/bureauLicorne3.jpg",
+            "./img/bureauLicorne4.jpg",
+            "./img/bureauLicorne5.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "type": {
+            "id": 2,
+            "name": "Bureau"
+        },
+        "material": [
+            "Métal"
+        ],
+        "color": "gris métalisé",
+        "reference": "abcFeur3",
+        "price": 130,
+        "image": [
+            "./img/bureau-gris1.jpg",
+            "./img/bureau-gris2.jpg",
+            "./img/bureau-gris3.jpg",
+            "./img/bureau-gris4.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "type": {
+            "id": 3,
+            "name": "Table"
+        },
+        "material": [
+            "Bois"
+        ],
+        "color": "Kaki",
+        "reference": "abcFeur4",
+        "price": 5,
+        "image": [
+            "./img/table-kaki1.webp",
+            "./img/table-kaki2.webp",
+            "./img/table-kaki3.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "type": {
+            "id": 1,
+            "name": "Chaise"
+        },
+        "material": [
+            "Plastique"
+        ],
+        "color": "bleu",
+        "reference": "abcFeur5",
+        "price": 70,
+        "image": [
+            "./img/chaise.webp",
+            "./img/chaise-2.webp",
+            "./img/chaise-3.webp",
+            "./img/chaise-bleu4.webp"
+        ]
+    }
+]
